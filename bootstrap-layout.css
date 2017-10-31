@@ -2,3 +2,9 @@
   box-sizing: border-box;
   overflow: auto;
 }
+body {
+  background-color: darkgreen;
+}
+.container {
+  background-color: lightpink;
+}

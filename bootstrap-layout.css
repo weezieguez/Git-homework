@@ -1,6 +1,8 @@
 *{
   box-sizing: border-box;
-  overflow: auto;
+}
+.clearfix {
+  overflow-auto;
 }
 body {
   background-color: darkgreen;
